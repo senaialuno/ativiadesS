@@ -1,0 +1,14 @@
+D:\SENAI\Minhas Atividades-Senai\Ativ Cod-Back-End\ativiadeS\bin\Debug\net8.0\ativiadeS.exe
+D:\SENAI\Minhas Atividades-Senai\Ativ Cod-Back-End\ativiadeS\bin\Debug\net8.0\ativiadeS.deps.json
+D:\SENAI\Minhas Atividades-Senai\Ativ Cod-Back-End\ativiadeS\bin\Debug\net8.0\ativiadeS.runtimeconfig.json
+D:\SENAI\Minhas Atividades-Senai\Ativ Cod-Back-End\ativiadeS\bin\Debug\net8.0\ativiadeS.dll
+D:\SENAI\Minhas Atividades-Senai\Ativ Cod-Back-End\ativiadeS\bin\Debug\net8.0\ativiadeS.pdb
+D:\SENAI\Minhas Atividades-Senai\Ativ Cod-Back-End\ativiadeS\obj\Debug\net8.0\ativiadeS.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAI\Minhas Atividades-Senai\Ativ Cod-Back-End\ativiadeS\obj\Debug\net8.0\ativiadeS.AssemblyInfoInputs.cache
+D:\SENAI\Minhas Atividades-Senai\Ativ Cod-Back-End\ativiadeS\obj\Debug\net8.0\ativiadeS.AssemblyInfo.cs
+D:\SENAI\Minhas Atividades-Senai\Ativ Cod-Back-End\ativiadeS\obj\Debug\net8.0\ativiadeS.csproj.CoreCompileInputs.cache
+D:\SENAI\Minhas Atividades-Senai\Ativ Cod-Back-End\ativiadeS\obj\Debug\net8.0\ativiadeS.dll
+D:\SENAI\Minhas Atividades-Senai\Ativ Cod-Back-End\ativiadeS\obj\Debug\net8.0\refint\ativiadeS.dll
+D:\SENAI\Minhas Atividades-Senai\Ativ Cod-Back-End\ativiadeS\obj\Debug\net8.0\ativiadeS.pdb
+D:\SENAI\Minhas Atividades-Senai\Ativ Cod-Back-End\ativiadeS\obj\Debug\net8.0\ativiadeS.genruntimeconfig.cache
+D:\SENAI\Minhas Atividades-Senai\Ativ Cod-Back-End\ativiadeS\obj\Debug\net8.0\ref\ativiadeS.dll
